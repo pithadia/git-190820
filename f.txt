@@ -1,1 +1,3 @@
 Created f.txt file.
+
+Some changes to learn stashing
