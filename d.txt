@@ -1,1 +1,3 @@
 Createing d.txt file.
+
+Learning git and changes modify.
