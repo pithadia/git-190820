@@ -1,3 +1,1 @@
 Learning git for C.txt file.
-
-Further changes and modifications.
