@@ -3,3 +3,7 @@ Createing d.txt file.
 Learning git and changes modify.
 
 Changes done for learning git branch.
+
+Again changes made from branch master
+
+Again changes made from b1 branch.
